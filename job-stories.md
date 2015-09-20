@@ -2,8 +2,8 @@
 
 - When I am arranging a catch up with a friend I want to be able find out when the cafe will be open so I can confirm when we will go get coffee.
 
--
-When I like a piece of artwork on display I want to find out how I can contact the artist so I can view their other work.
+
+- When I like a piece of artwork on display I want to find out how I can contact the artist so I can view their other work.
 
 - When I want to get a certain type of coffee I want to be able to see what is on offer so I can decide if I will visit the cafe.
 
