@@ -1,4 +1,4 @@
-# user needs
+# User needs
   Users
 
     Coffee enthusiasts
